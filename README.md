@@ -10,5 +10,5 @@ Requirements
 * user:admin
 * password:admin
 * Database: reactlibrarydatabase
-  oktan (admin) (not accessible)
+* Security: oktan (admin) (not accessible)
   https://dev-69529271.okta.com/login/login.htm?fromURI=/oauth2/v1/authorize/redirect?okta_key=nc9QQ7Q5zvFyoX1OEnj3f4XBKyHp1c3sQQBKBbeNmL0
